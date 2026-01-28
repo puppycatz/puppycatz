@@ -1,3 +1,3 @@
 <div align="center">
-<img width="650" height="650" alt="soft_fade_removed_bg" src="https://github.com/user-attachments/assets/e39a18ba-85c1-42a9-95df-80a712bcc831" />
+<img width="700" height="700" alt="upscalemedia-transformed (18)" src="https://github.com/user-attachments/assets/0b86d91e-93ad-4ef2-8bae-7737f64a2edb" />
 
