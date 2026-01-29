@@ -1,3 +1,4 @@
 <div align="center">
-<img width="600" height="600" alt="upscalemedia-transformed (19)" src="https://github.com/user-attachments/assets/efa12ac0-96b7-47f8-9006-bdaa6568bef6" />
+<img width="400" height="400" alt="upscalemedia-transformed (20)" src="https://github.com/user-attachments/assets/693edeff-6ebf-40cb-bb8f-bff903fbea66" />
+<img width="400" height="400" alt="upscalemedia-transformed (22)" src="https://github.com/user-attachments/assets/17ed38ed-ed6e-4508-a0b6-eac7ac40f7e6" />
 
